@@ -2,7 +2,7 @@
 	"name": "generate-switch-case-for-enum-type",
 	"displayName": "Generate Switch Case For Enum Type",
 	"description": "",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "heroboy",
 	"engines": {
 		"vscode": "^1.41.0"
@@ -10,6 +10,9 @@
 	"categories": [
 		"Other"
 	],
+	"repository": {
+		"url": "https://github.com/heroboy/generate-switch-case-for-enum-type-extension"
+	},
 	"contributes": {
 		"typescriptServerPlugins": [
 			{
