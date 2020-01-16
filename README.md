@@ -1,6 +1,6 @@
 # README
 
-A typescript language service plugin to generate switch case for enum type.
+A vscode extension to generate switch case for enum type.
 
 ![screenshot](screenshot2.gif)
 
