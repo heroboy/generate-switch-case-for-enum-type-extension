@@ -2,7 +2,7 @@
 
 A typescript language service plugin to generate switch case for enum type.
 
-![screenshot](screenshot.gif)
+![screenshot](screenshot2.gif)
 
 ## How to use
 
@@ -26,3 +26,10 @@ type Union1 = 1|2|true|"abc";
 type Union2 = 1|2|EnumType1|boolean;
 
 ```
+
+## Some learning resouce for writing typescript language service plugin
+* https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin
+* https://github.com/microsoft/TypeScript/tree/master/src/services/refactors
+* https://ts-morph.com/
+* https://github.com/cancerberoSgx/typescript-plugins-of-mine
+* https://ts-ast-viewer.com/
