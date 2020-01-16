@@ -27,6 +27,10 @@ type Union2 = 1|2|EnumType1|boolean;
 
 ```
 
+## Todo
+* Support more situation that can generate the case clauses.
+* Generate correct result for js files.
+
 ## Some learning resouce for writing typescript language service plugin
 * https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin
 * https://github.com/microsoft/TypeScript/tree/master/src/services/refactors
