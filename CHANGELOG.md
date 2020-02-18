@@ -4,6 +4,9 @@ All notable changes to the "generateswitchcaseforenumtype" extension will be doc
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.6]  - 2020/2/18
+- Change the way check empty switch case block. `case` and `break` statement is allowed.
+
 ## [0.0.5] - 2020/1/17
 - Add 'enableForWorkspaceTypeScriptVersions', make it work with workspace typescript.
 

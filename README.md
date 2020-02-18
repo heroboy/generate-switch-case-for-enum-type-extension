@@ -2,6 +2,8 @@
 
 A vscode extension to generate switch case for enum type.
 
+https://marketplace.visualstudio.com/items?itemName=heroboy.generate-switch-case-for-enum-type
+
 ![screenshot](screenshot2.gif)
 
 ## How to use
