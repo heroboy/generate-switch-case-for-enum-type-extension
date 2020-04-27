@@ -13,6 +13,8 @@ Ensure the case block of switch statement is empty. Place the cursor on `switch`
 ## Supported types
 
 ```typescript
+class A{}
+class B{}
 
 enum EnumType1
 {
@@ -26,6 +28,7 @@ const enum EnumType2
 
 type Union1 = 1|2|true|"abc";
 type Union2 = 1|2|EnumType1|boolean;
+type Union3 = A|B;
 
 ```
 
