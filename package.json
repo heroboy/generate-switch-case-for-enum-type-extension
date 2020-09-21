@@ -17,7 +17,7 @@
 		"typescriptServerPlugins": [
 			{
 				"name": "generate-typescript-switch-case-for-enum-type-language-service-plugin",
-				"enableForWorkspaceTypeScriptVersions": false
+				"enableForWorkspaceTypeScriptVersions": true
 			}
 		]
 	},
