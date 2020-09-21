@@ -3,6 +3,10 @@
 All notable changes to the "generateswitchcaseforenumtype" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [0.0.8] - 2020/9/21
+- Fix https://github.com/heroboy/generate-switch-case-for-enum-type-extension/issues/4
+
 ## [0.0.7]  - 2020/4/27
 - Support union of class type.
 
