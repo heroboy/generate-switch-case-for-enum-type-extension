@@ -2,7 +2,7 @@
 	"name": "generate-switch-case-for-enum-type",
 	"displayName": "Generate Switch Case For Enum Type",
 	"description": "",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"publisher": "heroboy",
 	"engines": {
 		"vscode": "^1.41.0"
@@ -17,7 +17,7 @@
 		"typescriptServerPlugins": [
 			{
 				"name": "generate-typescript-switch-case-for-enum-type-language-service-plugin",
-				"enableForWorkspaceTypeScriptVersions": true
+				"enableForWorkspaceTypeScriptVersions": false
 			}
 		]
 	},
@@ -40,6 +40,6 @@
 		"vscode-test": "^1.2.2"
 	},
 	"dependencies": {
-		"generate-typescript-switch-case-for-enum-type-language-service-plugin": "0.0.9"
+		"generate-typescript-switch-case-for-enum-type-language-service-plugin": "0.0.10"
 	}
 }
