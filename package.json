@@ -2,7 +2,7 @@
 	"name": "generate-switch-case-for-enum-type",
 	"displayName": "Generate Switch Case For Enum Type",
 	"description": "",
-	"version": "0.0.9",
+	"version": "0.0.10",
 	"publisher": "heroboy",
 	"engines": {
 		"vscode": "^1.41.0"
